@@ -275,8 +275,8 @@
 }
 
 .pv4 {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
 .tc {
@@ -297,8 +297,8 @@
 
 @media screen and (min-width: 30em) {
     .pv5-ns {
-        padding-top: 4rem;
-        padding-bottom: 4rem;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
     }
 
     .f4-ns {
