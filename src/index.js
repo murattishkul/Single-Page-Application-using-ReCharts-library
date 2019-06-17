@@ -1,14 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom'
-import {
-  BarChart, Bar, LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, Label
-} from 'recharts';
-import {CustomizedAxisTick, LineTotal, LineCount, BarTotal} from './map.js'
+import { LineTotal, LineCount, BarTotal} from './map.js'
 import './index.css'
-import response from './App.js'
 
 const {Component} = React
-const {dataLineCount , dataLineTotal, dataBar} = response
 
 function Greetings(props){
   return(
