@@ -1,6 +1,6 @@
 ## This repo is specially for Chanyoung Kwon @ Aizen
 
-I nstead of hardcoding everything right into charts, here I have mimicked server's behaviour and data handling behaviour.
+Instead of hardcoding everything right into charts, here I have mimicked server's behaviour and data handling behaviour.
 
 API.js provides server response functionality and exports JSON object, that's passed from database.
 
