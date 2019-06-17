@@ -6,7 +6,7 @@ API.js provides server response functionality and exports JSON object, that's pa
 
 
 App.js contains data handling functionality. It parses JSON object and fetches data to ReChart Components in appropriate way as an object,
-that is destructured upon imoprting to index.js, in order to be rendered.
+that is destructured upon importing to index.js, in order to be rendered.
 
 Map.js maps components such as LineCount, LineTotal and BarTotal to Index.js. Aforementioned components it contains, are the implementation of all charts.
 
