@@ -1,4 +1,4 @@
-## This repo is specially for Chanyoung Kwon @ Aizen
+## SPA using Recharts | 2-row X-axis using Recharts
 
 Instead of "hardcoding" the data right into charts, here I have mimicked server's behaviour and data handling behaviour as in a real production development.
 
